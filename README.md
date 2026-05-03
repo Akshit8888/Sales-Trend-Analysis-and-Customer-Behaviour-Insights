@@ -15,8 +15,8 @@ Analyzed 50 weeks of transaction data to identify trends, detect a sudden shift 
 
 📊 Dashboard
 
-Interactive Power BI dashboard highlighting sales trends, gender distribution, and daypart analysis.
-<img width="604" height="344" alt="image" src="https://github.com/user-attachments/assets/4d5f1ebf-75af-444b-918d-7eb966548bf1" />
+<img width="695" height="395" alt="image" src="https://github.com/user-attachments/assets/26e69d9e-4538-41a6-8377-74b2aad9d758" />
+
 
 
 ## 📈 Key Insights
@@ -33,26 +33,22 @@ Interactive Power BI dashboard highlighting sales trends, gender distribution, a
 
 ---
 
-
-
----
-
 ## 🎯 Outcome
 
 End-to-end data analysis project demonstrating:
 
-Time series trend analysis
-Statistical validation (hypothesis testing)
-Business insight generation
+* Time series trend analysis
+* Statistical validation (hypothesis testing)
+* Business insight generation
 
 ---
 
 📂 Project Assets
 
-📊 dashboard/ → Power BI dashboard (.pbix)
-📈 analysis/ → T-test analysis (Excel)
-📄 report/ → Detailed business report
-🖼 images/ → Dashboard preview
+- 📊 dashboard/ → Power BI dashboard (.pbix)
+- 📈 analysis/ → T-test analysis (Excel)
+- 📄 report/ → Detailed business report
+- 🖼 images/ → Dashboard preview
 
 ## 👤 Author
 
